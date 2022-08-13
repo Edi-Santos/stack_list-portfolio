@@ -1,0 +1,5 @@
+:root {
+  --border-header: rgba(0, 0, 0, 0.5);
+  --color-header: rgba(0, 0, 0, 0.7);
+  --text-shadow-header: rgba(0, 0, 0, 0.2);
+}
