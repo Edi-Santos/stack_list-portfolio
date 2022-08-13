@@ -1,7 +1,7 @@
 function Header() {
   return(
     <header>
-      <h1>Header</h1>
+      <h1>Lista de Tecnologias</h1>
     </header>
   );
 }
