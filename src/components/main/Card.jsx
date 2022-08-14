@@ -1,6 +1,6 @@
 function Card({name, imgPath}) {
   return (
-    <section>
+    <section className='card-container'>
       <h3>{name}</h3>
       <img src={imgPath} alt={`logo da tecnologia ${name}`} />
     </section>
