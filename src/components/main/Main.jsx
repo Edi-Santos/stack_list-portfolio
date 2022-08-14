@@ -6,7 +6,11 @@ const stacks = () => datas.map(
 );
 
 function Main() {
-  return stacks();
+  return(
+    <main>
+      {stacks()}
+    </main>
+  );
 }
 
 export default Main;
