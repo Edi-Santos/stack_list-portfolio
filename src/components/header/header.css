@@ -1,0 +1,8 @@
+header {
+  border-bottom: 1px solid var(--border-header);
+  color: var(--color-header);
+  display: flex;
+  justify-content: center;
+  text-shadow: 3px 3px 2px var(--text-shadow-header);
+  width: 80%;
+}
