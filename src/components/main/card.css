@@ -1,0 +1,23 @@
+img {
+  margin-top: 5%;
+  width: 80%;
+}
+
+.card-container {
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 3px 3px 5px var(--box-shadow-card);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 2% 0.1%;
+  min-height: 25rem;
+  padding: 0 2%;
+  width: 20%;
+}
+
+.card-container:hover {
+  background-color: var(--bg-color-hover-card);
+  transition: 0.5s;
+  width: 22%;
+}
