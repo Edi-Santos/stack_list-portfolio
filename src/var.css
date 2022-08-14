@@ -2,4 +2,7 @@
   --border-header: rgba(0, 0, 0, 0.5);
   --color-header: rgba(0, 0, 0, 0.7);
   --text-shadow-header: rgba(0, 0, 0, 0.2);
+
+  --box-shadow-card: rgb(134, 134, 134);
+  --bg-color-hover-card: rgb(210, 218, 225)
 }
