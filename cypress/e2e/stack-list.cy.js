@@ -2,6 +2,7 @@
 
 const HEADER = 'header';
 const HEADER_H1 = `${HEADER} h1`;
+const MAIN = 'main';
 
 describe('Testando o Projeto Stack List', () => {
   before(() => {
@@ -11,5 +12,10 @@ describe('Testando o Projeto Stack List', () => {
   it('1 - verifica se há um <header /> e se há um título <h1 />', () => {
     cy.get(HEADER).should('exist');
     cy.get(HEADER_H1).should('exist');
+  });
+
+  it('2 - verifica se há um <main />', () => {
+    cy.get(MAIN).should('exist');
+    cy.get(MAIN).children().should('have.length', 9);
   });
 });
