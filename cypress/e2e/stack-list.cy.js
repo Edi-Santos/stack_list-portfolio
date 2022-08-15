@@ -14,7 +14,7 @@ describe('Testando o Projeto Stack List', () => {
     cy.get(HEADER_H1).should('exist');
   });
 
-  it('2 - verifica se há um <main />', () => {
+  it('2 - verifica se há um <main /> e se ele possui 9 elementos filhos', () => {
     cy.get(MAIN).should('exist');
     cy.get(MAIN).children().should('have.length', 9);
   });
