@@ -3,6 +3,7 @@
 const HEADER = 'header';
 const HEADER_H1 = `${HEADER} h1`;
 const MAIN = 'main';
+const CLASS_CARD_CONTAINER = '.card-container';
 
 describe('Testando o Projeto Stack List', () => {
   before(() => {
@@ -17,5 +18,13 @@ describe('Testando o Projeto Stack List', () => {
   it('2 - verifica se há um <main /> e se ele possui 9 elementos filhos', () => {
     cy.get(MAIN).should('exist');
     cy.get(MAIN).children().should('have.length', 9);
+  });
+
+  it('3 - verifica se há cards com a classe ".card-container" e se há 2 elementos filhos', () => {
+    cy.get(CLASS_CARD_CONTAINER).should('exist');
+    cy.get('h3:contains(Redux)').should('exist');
+    cy.get('h3:contains(Jest)').should('exist');
+    cy.get('h3:contains(NodeJS)').should('exist');
+    cy.get('h3:contains(ReactJS)').should('exist');
   });
 });
