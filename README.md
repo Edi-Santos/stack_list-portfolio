@@ -132,7 +132,13 @@ Executado este comando, serão instaladas todas as dependências do projeto.
 Para os testes de Front-end nós estaremos utilizando o __Cypress__, uma poderosa ferramenta de testes para validação de telas. Ele acessa o código fonte ou URL e verifica, de acordo com os testes implementados, a existência ou não de elementos DOM. </br>
 O mais importante aqui é que você saiba como executar estes testes para que possa desenvolver o projeto de acordo com o que se é pedido.
 
-Para começar a testar, com seu terminal aberto na raiz do projeto, execute:
+Antes de abrir o Cypress, é necessário que você rode a aplicação, pois o Cypress acessará a porta padrão que o ReactJS usa do localhost. Primeiro, execute:
+
+```
+npm start
+```
+
+Em seguida, para começar a testar, com seu terminal aberto na raiz do projeto, execute:
 
 ```
 npm run test:cy
@@ -156,11 +162,11 @@ Após selecionar a opção e clicar em `Start E2E Testing in ...`, abrirá a seg
 
 >__Obs__: Estarei utilizando a opção _Chrome_. 
 
-Veja que temos 3 arquivos de testes. Escolha um arquivo de teste para que o _Cypress_ abra-o e execute-o.
+Veja que temos 1 arquivo de teste (stack-list.cy.js).
 
 ><img src='./img_readme/cypress-tela_executando_testes.png'> <br>
 
-A tela mostrada acima é a tela que abrirá executando todos os testes presentes no arquivo *__index.cy.js__*
+A tela mostrada acima é a tela que abrirá executando todos os testes presentes no arquivo *__stack-list.cy.js__*
 
 Caso abrir o teste seja a primeira coisa que você faça, abrirá exatamente a tela mostrada no print abaixo.
 
