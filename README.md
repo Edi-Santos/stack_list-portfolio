@@ -1,6 +1,6 @@
-# Bem Vindo ao Projeto Pomodoro!!!
+# Bem Vindo ao Projeto Stack List!!!
 
-Este é o terceiro projeto da iniciativa PorConta. Iniciativa que tem o propósito de ajudar aos novos programadores a começarem a desenvolver um Portfólio. Também ajudará aos que desejam pegar novos projetos para praticar e se aperfeiçoarem, estendendo, consequentenmente, ainda mais o Portfólio.
+Este é o quarto projeto da iniciativa **_PorConta_**. Iniciativa que tem o propósito de ajudar aos novos programadores a começarem a desenvolver um _Portfólio_. Também ajudará aos que desejam pegar novos projetos para praticar e se aperfeiçoarem, estendendo, consequentenmente, ainda mais o Portfólio.
 Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no LinkedIn, mostrar para rescrutadores e tudo mais.
 
 >*__Obs__*.: __LEIA ATENTAMENTE TODO O `README` ANTES DE COMEÇAR O DESENVOLVIMENTO DO PROJETO, POIS NELE ESTÃO CONTIDAS TODAS AS INFORMAÇÕES NECESSÁRIAS PARA O DESENVOLVIMENTO DO PROJETO.__
