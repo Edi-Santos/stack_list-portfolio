@@ -54,7 +54,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
 - VS Code
 - NodeJS v14^
 
-Para este projeto você precisa ter instalado em sua máquina um editor de código (sugiro o VS Code pela sua simplicidade e leveza, além
+Para este projeto você precisa ter instalado em sua máquina um editor de código (sugiro o _VS Code_ pela sua simplicidade e leveza, além
 de extensões que facilitam muito o desenvolvimento) e o Node na versão 14.0.0 ou superior.
 
 Para saber qual versão do Node está rodando em sua máquina, abra o terminal e execute:
@@ -77,7 +77,7 @@ Você pode aprender mais sobre `NVM` <a href='https://github.com/nvm-sh/nvm'>aqu
 
 ### Sobre o Projeto
 
-Neste projeto você desenvolverá 3 telas onde a primeira se trata de um relógio digital, a segunda, um temporizador, e a terceira, um contador Pomodoro. O objetivo deste projeto é de você desenvolver e consolidar seus conhecimentos em _HTML_, _CSS_ e _JS_ na manipulação do DOM, além de praticar a __lógica de programação__.
+Neste projeto você desenvolverá apenas uma tela que deverá possuir um *__header__* e um *__main__*. O objetivo deste projeto é de você desenvolver e consolidar seus conhecimentos em _HTML_, _CSS_ e _JS_, além de praticar a __lógica de programação__. Você fará este projeto em *__ReactJS__*. Busque componentizar ao máximo os elementos da página. Criar este hábito desde cedo te ajudará muito no aprendizado do _ReactJS_.
 
 >__Obs.1__: Sinta-se à vontade para desenvolver o projeto bem à sua maneira, com suas características, mas vise sempre manter o código mais limpo e legível possível. Mantenha a organização de seus códigos.
 
@@ -88,6 +88,7 @@ Neste projeto você desenvolverá 3 telas onde a primeira se trata de um relógi
 - __HTML__
 - __CSS__
 - __JavaScript__
+- __ReactJS__
 
 Fique à vontade para ir além e utilizar bibliotecas como, por exemplo, _Bootstrap_ e o jQuery.
 
