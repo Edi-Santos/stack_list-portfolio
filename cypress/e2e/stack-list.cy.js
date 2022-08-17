@@ -20,7 +20,7 @@ describe('Testando o Projeto Stack List', () => {
     cy.get(MAIN).children().should('have.length', 9);
   });
 
-  it('3 - verifica se há cards com a classe ".card-container" e se há 2 elementos filhos', () => {
+  it('3 - verifica se há cards com a classe ".card-container" e se o elementos estão aprecendo corretamente', () => {
     cy.get(CLASS_CARD_CONTAINER).should('exist');
     cy.get('h3:contains(Redux)').should('exist');
     cy.get('h3:contains(Jest)').should('exist');
