@@ -192,13 +192,14 @@ Mas fique à vontade para adicionar novas funcionalidades, mudar a aparência e 
 
 #### Lista de Requisitos
 
-## Tela de Relógio (index.html)
-
 ### 1 - Crie um Header
+
+O `<header />` deve possuir um título com a TAG `<h1 />`.
 
 ##### O que será validado?
 
-- Será validado que a tela Relógio possui uma TAG `<header />`.
+- Será validado que há uma TAG `<header />`;
+- Será validado que o `<header />` possui uma TAG `<h1 />`.
 
 
 ### 2 - Crie um Nav dentro do Header
