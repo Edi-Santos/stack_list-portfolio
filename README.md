@@ -202,15 +202,14 @@ O `<header />` deve possuir um título com a TAG `<h1 />`.
 - Será validado que o `<header />` possui uma TAG `<h1 />`.
 
 
-### 2 - Crie um Nav dentro do Header
+### 2 - Crie um Main
 
-Crie um `<nav />` que possua 3 elementos. <br>
-Estes elementos devem ser links para navegação entre as telas.
+O `<main />` deve possuir 9 cards.
 
 ##### O que será validado?
 
-- Será validado que o `<header />` possui uma TAG `<nav />`;
-- Será validado que a TAG `<nav />` possui 3 elementos.
+- Será validado que há uma TAG `<main />`;
+- Será validado que a TAG `<main />` possui 9 elementos.
 
 ### 3 - Crie um Main
 
