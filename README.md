@@ -211,6 +211,16 @@ O `<main />` deve possuir 9 cards.
 - Será validado que há uma TAG `<main />`;
 - Será validado que a TAG `<main />` possui 9 elementos.
 
+### 3 - Os cards devem possuir Nome e Imagem de uma tecnologia
+
+Cada card deve conter as informações de um objeto do arquivo *__datas.js__* (cada objeto tem duas chaves: _name_ e _imgPath_). <br>
+Cada card deve possuir, também, a classe `className='card-container'`.
+
+##### O que será validado?
+
+- Será validado que cada card possui a classe __card-container__;
+- Será validado que cada card possui as informações de um objeto do arquivo *__datas.js__*.
+
 ---
 
 ### Considerações Finais
