@@ -182,16 +182,11 @@ Faça com calma e atenção. Muito importante a __organização__ de seus códig
 
 Ao concluir o projeto, ele deverá estar semelhante ao seguinte:
 
-><img src='./img_readme/projeto-finalizado-1.png'>
-><img src='./img_readme/projeto-finalizado-2.png'>
-><img src='./img_readme/projeto-finalizado-3.png'>
+><img src='./img_readme/projeto-finalizado.png'>
 
-Mas fique à vontade para adicionar novas funcionalidades, mudar a aparência e demais mudanças. As imagens acima são apenas exemplos (o resultado do código da pasta _base_answer_)
+Mas fique à vontade para adicionar novas funcionalidades, mudar a aparência e demais coisas. A imagem acima é apenas um exemplo (o resultado do código da pasta _base_answer_)
 
 ---
-
-## ATENÇÂO!
-#### OS ARQUIVOS `HTML` JÁ ESTÃO CRIADOS, SENDO NECESSÁRIO QUE VOCÊ, APENAS, IMPLEMENTE-OS. OS DEMAIS ARQUIVOS NECESSÁRIOS PARA O DESENVOLVIMENTO DO PROJETO PODERÃO SER CRIADOS COM A ESTRUTURA QUE ACHAR MELHOR. </br> </br>
 
 >__Obs__: Lembre-se de que há o projeto pronto dentro da pasta *__base_answer__* de onde você pode tirar dúvida, inclusive, olhar a estrutura de arquivos.
 
