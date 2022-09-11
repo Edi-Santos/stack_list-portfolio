@@ -178,7 +178,7 @@ Conforme você for cumprindo cada requisito, você vai ganhando um *__check__* v
 
 ### Requisitos do Projeto
 
->#### ATENÇÃO: HÁ, NA RAIZ DO PROJETO, UM ARQUIVO CHAMADO `datas.js`. ESTE ARQUIVO SIMULA A RESPOST DE UMA REQUISIÇÃO PARA UMA API. É UM ARQUIVO COM UM ARRAY DE OBJETOS (9 objetos) ONDE CADA OBJETO POSSUI DUAS CHAVES (_name_ e _imgPath_).
+>#### ATENÇÃO: HÁ, NA RAIZ DO PROJETO, UM ARQUIVO CHAMADO `datas.js`. ESTE ARQUIVO SIMULA A RESPOSTA DE UMA REQUISIÇÃO PARA UMA API. É UM ARQUIVO COM UM ARRAY DE OBJETOS (9 objetos) ONDE CADA OBJETO POSSUI DUAS CHAVES (_name_ e _imgPath_).
 
 > *__Dica__*: Use um map() para percorrer e puxar as informações de cada objeto e renderizá-las na tela.
 
