@@ -192,7 +192,9 @@ Mas fique à vontade para adicionar novas funcionalidades, mudar a aparência e 
 
 ---
 
->__Obs__: Lembre-se de que há o projeto pronto dentro da pasta *__base_answer__* de onde você pode tirar dúvida, inclusive, olhar a estrutura de arquivos.
+>__Obs1__: Lembre-se de que há o projeto pronto dentro da pasta *__base_answer__* de onde você pode tirar dúvida, inclusive, olhar a estrutura de arquivos.
+
+>__Obs2__: Para rodar o projeto da pasta *__base_answer__* você deverá navegar para dentro dela, através do seu terminal, e rodar o comando: `npm start`.
 
 #### Lista de Requisitos
 
