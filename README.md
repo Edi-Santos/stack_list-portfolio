@@ -23,6 +23,7 @@ Fique a vontade para pegar os projetos e desenvolver à sua maneira, publicar no
          - [1 - Crie um Header](#1---crie-um-header)
          - [2 - Crie um Main](#2---crie-um-main)
          - [3 - Os cards devem possuir Nome e Imagem de uma tecnologia](#3---os-cards-devem-possuir-nome-e-imagem-de-uma-tecnologia)
+   - [Considerações Finais](#considerações-finais)
 ---
 
 ### Requisitos Para Desenvolver Este Projeto
